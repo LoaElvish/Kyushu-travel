@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.98b8ea29.css",
-    "main.js": "/static/js/main.483b5ffa.js",
-    "index.html": "/index.html",
-    "main.98b8ea29.css.map": "/static/css/main.98b8ea29.css.map",
-    "main.483b5ffa.js.map": "/static/js/main.483b5ffa.js.map"
+    "main.css": "/Kyushu-travel/static/css/main.98b8ea29.css",
+    "main.js": "/Kyushu-travel/static/js/main.483b5ffa.js",
+    "index.html": "/Kyushu-travel/index.html",
+    "main.98b8ea29.css.map": "/Kyushu-travel/static/css/main.98b8ea29.css.map",
+    "main.483b5ffa.js.map": "/Kyushu-travel/static/js/main.483b5ffa.js.map"
   },
   "entrypoints": [
     "static/css/main.98b8ea29.css",
