@@ -1,0 +1,243 @@
+{
+  "Header": {
+    "title": "KYUSHU TRAVEL 5/13 ~ 5/16",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": [
+      "숙소 이동 : 셔틀버스+지하철(메이노하마선K11) or 택시",  
+      "오호리공원 : 지하철 공항선(메이노하마선K06) - 오호리공원역(K10, 4정거장)",
+      "모모치해변 : 오호리 버스정류장(15번, 20번) - 후쿠오카타워 하차",
+      "숙소 이동 : 후쿠오카타워 미나미구치 버스정류장(기온마치버스) - 하카타역(11정거장)",
+      "나카스 야타이(포장마차) 거리 : 도보 11분"
+      ],
+    "Why": [
+      "나가하마 공원",
+      "PLAZA 후쿠오카 솔라리아",
+      "BEARD",
+      "Shin Shin(추천)"
+    ],
+    "Why2": [
+      "다이묘 소프트크림(강추)",
+      "후쿠오카 타워",
+      "텐진",
+      "구시다 신사"
+    ]
+  },
+  "About2": {
+    "paragraph": [
+      "가고시마 이동 : 하카타역(큐슈 신칸센) - 가고시마츄오역(2시간)",
+      "큐트패스 구매 : 가고시마 중앙역 인포메이션센터(1200엔)",  
+      "숙소 이동 : 지하철(도보10분) - 츄오역(가고시마시덴2 N10) - 덴몬칸도리(3정거장) - 짐 맡기기",
+      "사쿠라지마 섬 : 노면전차 블루트램(이즈로, 구글지도 검색) or 버스 - 스이조쿠칸구치마에 선착장(160엔, 하차 후 결제) - 버스 or 스쿠터 or 자전거 이동, 도보힘듦" ,
+      "센간엔(선택) : 본섬 이동 - 가고시마에키마에 버스 정류장(N10) - 異人館前리진야카타마에(4정거장)",
+      "숙소 체크인 : 센간엔 이소테이엔 버스 정류장(시티뷰) - 덴몬칸(23분) - 도보",
+      "텐몬칸공원(밤) : 도보(3분)"],
+    "Why": [
+      "유노히라 전망대(사쿠라지마섬)",
+      "가고시마 아뮤플라자(추천)",
+      "텐몬칸",
+      "시로야마공원 전망대(추천)"
+    ],
+    "Why2": [
+      "아지노돈카츠 마루이치(지하상가, 인생돈까스)",
+      "회전스시 멧케몬(가성비)",
+      "Ayadori Kagoshima Tenmonkan (닭회, 꼬치)"
+    ]
+  },
+  "About3": {
+    "paragraph": [
+      "구마모토 이동 : 가고시마츄오역(큐슈 신칸센) - 구마모토역(1시간) ",
+      "숙소 이동 : 지하철 이동(도보4분) - 구마모토역(A5-1) - 구마모토사쿠라마치버스터미널(6정거장) ",  
+      "구마모토 성 이동 : 짐 맡기고 도보 이동(입장료 : 800엔)",
+      "숙소 체크인 : 도보 이동",
+      "스이젠지 조주엔 : 지하철 이동(도보5분) - 하나바타초역(구마모토 시덴A선) - 스이젠지 공원역(9정거장, 입장료 400엔)",
+      "쿠마몬 스퀘어 : 스이젠지 공원역(구마모토 시덴A선) - 스이도초역(7정거장)",
+      "숙소 이동 : 도보(추천 : 15분) or 택시"],
+    "Why": [
+      "원피스 동상(택시 추천)",
+      "스이젠지 에즈코 공원",
+      "시마다 박물관"
+    ],
+    "Why2": [
+      "Kyomachi Saryo Tokunaga(4만)",
+      "马桜우마사쿠라(말고기 8~9만)",
+      "뉴텐카(가성비 꼬치집)"
+    ]
+  }, 
+  "About4": {
+    "paragraph": [
+      "후쿠오카 이동 : 구마모토역(큐슈 신칸센) - 하카타역(1시간)",  
+      "캐널시티 쇼핑: 도보 11분",
+      "공항 이동 : 하카타역(공항선) - 후쿠오카 공항(2정거장, 5분)"],
+    "Why": [
+      "공항 도착은 넉넉히 2시간 전까지"
+    ],
+    "Why2": [
+      "쇼핑을 위해선 기차를 일찍 탈 것"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Songpa-gu, Seoul, Republic of Korea ",
+    "phone": "+82 10 5032 6023",
+    "email": "lk931101@gmail.com",
+    "facebook": "https://www.facebook.com/kyeol.lee",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-plane",
+      "title": "Fukuoka",
+      "text": "#오호리 공원, #모모치 해변, #맛집"
+    },
+    {
+      "icon": "fa fa-home",
+      "title": "Kagoshima",
+      "text": "#사쿠라지마 화산섬, #노면전차"
+    },
+    {
+      "icon": "fa fa-subway",
+      "title": "Kumamoto",
+      "text": "#구마모토성, #쿠마몬"
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "Fukuoka",
+      "text": "#후쿠오카캐널시티쇼핑, #출국"
+    }
+  ]
+}
